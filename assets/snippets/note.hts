@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="generator" content="Adobe RoboHelp 2022"/>
+  <meta name="topic-comment" content=""/>
+  <title>note</title>
+<link rel="stylesheet" type="text/css" href="../css/default.css"/></head>
+<body><p>When you start the application for the first time, it will automatically open [[11 Devices|device selection dialog]]. You can connect to the device via Bluetooth and USB interfaces. To connect the device to a phone/tablet via USB, you need to use an On-The-Go (<span class="misspell-word">OTG</span>) cable.</p></body></html>
